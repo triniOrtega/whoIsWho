@@ -19,6 +19,7 @@ public class Pregunta {
     private JLabel pregunta;
     private int numeroPregunta;
     private Respuesta respuesta;
+    //mostrar el personaje solucion
     private Personaje personajeSolucion;
     private int contadorPreguntas = 0;
 
